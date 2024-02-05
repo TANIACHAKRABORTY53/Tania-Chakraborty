@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Embedded Systems Design**
 
-- 💬 Ask me about **Microcontroller, Embedded C, C++,**
+- 💬 Ask me about **Microcontroller, Embedded C, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
