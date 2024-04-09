@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TANIA CHAKRABORTY</h1>
+<h1 align="center">Hello 👋, I'm TANIA CHAKRABORTY</h1>
 <h3 align="center">A passionate ECE Grad from India</h3>
 
 - 🌱 I’m currently learning **Embedded Systems Design**
