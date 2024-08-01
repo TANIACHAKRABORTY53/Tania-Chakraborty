@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm TANIA CHAKRABORTY</h1>
 <h3 align="center">A passionate ECE Grad from India</h3>
 
-- 🌱 I’m currently learning **Embedded Systems Design**
+- 🌱 I like solving business problems
 
-- 💬 Ask me about **Microcontroller, Embedded C, C++**
+- 💬 Ask me about **Business Analytics, Data Analytics, MySQL, PostgreSQL, MS Excel, Ms Power Bi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
